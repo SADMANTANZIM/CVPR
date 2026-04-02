@@ -1,0 +1,11 @@
+Dataset Link:
+
+https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2?resource=download
+
+If the file is unable to open, then go to and paste:
+
+nbviewer.org 
+> https://github.com/SADMANTANZIM/CVPR/blob/main/cvpr/CNN_23-50063-1.ipynb
+
+
+
